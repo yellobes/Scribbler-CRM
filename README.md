@@ -30,14 +30,14 @@ Getting Started
 
 *   sync the database:
         
-        ./assets/manage.py syncdb
+        ./crm/manage.py syncdb
 
     [follow prompts]
 
 
 *   run a server:
 
-        ./assets/manage.py runserver 2000  
+        ./crm/manage.py runserver 2000  
 
 
 *   view the application:
