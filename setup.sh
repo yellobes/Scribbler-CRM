@@ -2,7 +2,7 @@
 
 
 # Local settings location
-local_settings="assets/assets/local_settings.py"
+local_settings="crm/crm/local_settings.py"
 
 # Django secret key
 secret_key="$(python -c 'import random; print "".join([random.choice("abcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*(-_=+)") for i in range(50)])')"
