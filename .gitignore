@@ -1,5 +1,6 @@
 
 env
 *.pyc
+crm.db
 local_settings.py
 
