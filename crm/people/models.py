@@ -12,8 +12,8 @@ class EmergencyContact(models.Model):
     RELATION_CHOICES = (
         ('Parent', 'Parent'),
         ('Child', 'Child'),
-        ('Other', 'Other'),
         ('Significant Other', 'Significant Other'),
+        ('Other', 'Other'),
     )
 
     user = models.ForeignKey(User)

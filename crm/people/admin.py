@@ -19,10 +19,12 @@ class EmergencyContactAdmin(admin.ModelAdmin):
 
 class EmergencyContactInline(admin.StackedInline):
     model = EmergencyContact
+    extra = 0
 
 
 class UserProfileInline(admin.StackedInline):
     model = UserProfile
+    extra = 0
 
 
 class UserProfileAdmin(UserAdmin):
