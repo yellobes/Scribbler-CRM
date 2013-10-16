@@ -1,7 +1,7 @@
 Scribbler CRM
 =============
 
-..is a CRM / Object cache that is generic enough that it should be able to handle most basic CRM needs.
+..is a CRM / Object cache that is generic enough that it should be able to handle most basic CRM needs. It's geared towards hackerspaces / makerspaces that want to bolt on extra stuff, like client boxes that do RFID door key auth, 3d printer usage accounting, and membership while tying all of that to billing.
 
 
 
