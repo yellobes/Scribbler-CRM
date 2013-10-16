@@ -9,7 +9,7 @@ Scribbler CRM
 Getting Started
 ---------------
 
-*   make sure you've got python installed
+*   make sure you've got python, virtualenv, and pip installed
 
 *   check out the repository, enter it and run:
 
