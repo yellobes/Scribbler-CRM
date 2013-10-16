@@ -1,2 +1,2 @@
 * Don't be evil
-* If you get rich, buy me a beer
+* If this software gets you get rich, buy me a beer
