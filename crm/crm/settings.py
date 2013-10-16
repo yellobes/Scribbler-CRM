@@ -119,13 +119,15 @@ INSTALLED_APPS = (
     'django.contrib.sites',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'grappelli',
+    #'grappelli',
     'django.contrib.admin',
     'django.contrib.admindocs',
 
+    # Ours
     'crm',
-    'rfid',
+    'billing',
     'people',
+    'rfid',
 )
 
 # A sample logging configuration. The only tangible logging
